@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anil Sharma</h1>
-<h3 align="center">A Code Nerd with an Unshakable Routine</h3>
+<h3 align="center">Just being my Self</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=studentsharma&label=Profile%20views&color=0e75b6&style=flat" alt="studentsharma" /> </p>
 
